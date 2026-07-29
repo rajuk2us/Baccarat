@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-29T14-39-27-979Z",
+  "sequence": [
+    "B",
+    "P",
+    "B",
+    "P",
+    "B",
+    "B",
+    "B",
+    "P",
+    "P",
+    "B",
+    "P",
+    "P",
+    "P",
+    "P",
+    "B",
+    "P",
+    "P",
+    "B",
+    "P",
+    "B"
+  ],
+  "bp_sequence": "BPBPBBBPPBPPPPBPPBPB",
+  "totalHands": 20,
+  "bankerTotal": 9,
+  "playerTotal": 11,
+  "guessHistory": [
+    false,
+    true,
+    false,
+    true,
+    false
+  ],
+  "guessesWon": 2,
+  "guessesLost": 3,
+  "accuracyPct": 40
+}
