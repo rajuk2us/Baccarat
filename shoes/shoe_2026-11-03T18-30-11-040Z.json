@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-11-03T18-30-11-040Z",
+  "sequence": [
+    "P",
+    "B",
+    "P",
+    "B"
+  ],
+  "bp_sequence": "PBPB",
+  "totalHands": 4,
+  "bankerTotal": 2,
+  "playerTotal": 2,
+  "guessHistory": [],
+  "guessesWon": 0,
+  "guessesLost": 0,
+  "accuracyPct": null
+}
